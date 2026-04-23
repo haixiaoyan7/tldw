@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Token / credential caches
+token_cache*.json
+*.env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+/tmp/
